@@ -1,4 +1,4 @@
-<img src="https://github.com/Victorhap/Victorhap/blob/main/images/bg3.gif" height="450" width="100%" />
+<img src="https://github.com/Victorhap/Victorhap/blob/main/images/bg3.gif" height="300" width="100%" />
 
 <div align="right"> 
   <a href = "mailto:victorbq18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
