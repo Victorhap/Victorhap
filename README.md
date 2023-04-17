@@ -1,5 +1,5 @@
 <div align="right"> 
-<img class="img1" src="https://github.com/Victorhap/Victorhap/blob/main/images/bgpixel2.gif" height="300" width="100%" />
+<img class="img1" src="https://github.com/Victorhap/Victorhap/blob/main/images/bg5.gif" height="250" width="100%" />
 
   <a href = "mailto:victorbq18@gmail.com"><img class="img2" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-hebert-149549189/" target="_blank"><img class="img2" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
