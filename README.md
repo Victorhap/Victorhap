@@ -12,10 +12,10 @@
   Eu tenho 26 anos e sou bacharel em ciencia da computação. Estou focado em Desenvolvimento Web 🕸️.
 </p>
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Victorhap&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorhap&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+<div>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Victorhap&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorhap&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 
 <h2 align="center"> Tecnologias <img src="https://github.com/Victorhap/Victorhap/blob/main/images/laptop.gif" width="50"> </h2> 
