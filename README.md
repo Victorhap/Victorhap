@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  Eu tenho 26 anos e sou bacharel em ciencia da computação. Estou focado em Desenvolvimento Web 🕸️.
+  Eu tenho 26 anos e sou bacharel em ciencia da computação. Estou focado em Desenvolvimento Web 🕸️..
 </p>
 
 <p align="center">
