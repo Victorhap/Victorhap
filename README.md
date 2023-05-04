@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  Eu tenho 26 anos e sou bacharel em ciencia da computação. Estou focado em Desenvolvimento Web 🕸️.
+  Olá, meu nome é Victor e sou formado em Ciência da Computação, tenho 26 anos e atualmente estou focado na área de Front-end. Sou uma pessoa apaixonada por tecnologia e estou constantemente buscando atualizar meus conhecimentos e habilidades em programação, especialmente em HTML, CSS e JavaScript. Estou empenhado em me tornar um desenvolvedor Front-end altamente qualificado e estou animado para contribuir em projetos desafiadores. Além disso, estou sempre aberto a novas oportunidades e colaborações no mundo da tecnologia. 🕸️.
 </p>
 
 <div align="center">
